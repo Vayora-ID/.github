@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420">
+  <defs>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.6" fill="#1e3253"/></pattern>
+  </defs>
+  <rect width="1280" height="420" rx="28" fill="#0f1d33"/>
+  <rect width="1280" height="420" rx="28" fill="url(#dots)"/>
+  <rect x="0.5" y="0.5" width="1279" height="419" rx="27.5" fill="none" stroke="#22385a"/>
+  <!-- key fobs -->
+  <g transform="translate(900 70)">
+    <line x1="-10" y1="0" x2="320" y2="0" stroke="#ff9800" stroke-width="6" stroke-linecap="round"/>
+    <g transform="translate(25 0) rotate(-4)"><line x1="0" y1="0" x2="0" y2="30" stroke="#ff9800" stroke-width="3"/><circle cx="0" cy="0" r="8" fill="#ffb600"/><rect x="-32" y="30" width="64" height="150" rx="20" fill="#f9541c"/><circle cx="0" cy="50" r="7" fill="none" stroke="#fff9e1" stroke-opacity=".55" stroke-width="3"/><text x="0" y="127.0" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#fff9e1" text-anchor="middle">PMS</text></g>
+    <g transform="translate(110 0) rotate(3)"><line x1="0" y1="0" x2="0" y2="30" stroke="#ff9800" stroke-width="3"/><circle cx="0" cy="0" r="8" fill="#ffb600"/><rect x="-32" y="30" width="64" height="185" rx="20" fill="#2f9e86"/><circle cx="0" cy="50" r="7" fill="none" stroke="#fff9e1" stroke-opacity=".55" stroke-width="3"/><text x="0" y="144.5" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#fff9e1" text-anchor="middle">TV</text></g>
+    <g transform="translate(195 0) rotate(-2)"><line x1="0" y1="0" x2="0" y2="30" stroke="#ff9800" stroke-width="3"/><circle cx="0" cy="0" r="8" fill="#ffb600"/><rect x="-32" y="30" width="64" height="165" rx="20" fill="#8d8bc9"/><circle cx="0" cy="50" r="7" fill="none" stroke="#fff9e1" stroke-opacity=".55" stroke-width="3"/><text x="0" y="134.5" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#fff9e1" text-anchor="middle">POS</text></g>
+    <g transform="translate(280 0) rotate(5)"><line x1="0" y1="0" x2="0" y2="30" stroke="#ff9800" stroke-width="3"/><circle cx="0" cy="0" r="8" fill="#ffb600"/><rect x="-32" y="30" width="64" height="120" rx="20" fill="#ffb600"/><circle cx="0" cy="50" r="7" fill="none" stroke="#002b62" stroke-opacity=".55" stroke-width="3"/><text x="0" y="112.0" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#002b62" text-anchor="middle">★</text></g>
+  </g>
+  <!-- wordmark -->
+  <svg x="72" y="72" width="96" height="96" viewBox="0 0 1254 1254"><defs><clipPath id="c"><rect width="1254" height="1254" rx="300"/></clipPath></defs><g clip-path="url(#c)"><rect width="1254" height="1254" fill="#fdedc9"/><path d="M578 375C400 410 272 590 272 780C272 1000 420 1180 650 1254L1254 1254L1254 750C1180 625 1060 578 890 585L850 490L820 448C780 395 700 360 578 375Z" fill="#f9541c"/><path d="M555 548C600 612 650 612 690 632C708 648 718 664 725 680C610 790 570 900 570 988C490 935 445 855 445 770C445 690 490 605 555 548Z" fill="#fdedc9"/><circle cx="695" cy="425" r="128" fill="#cce8f6"/><circle cx="695" cy="425" r="52" fill="#58575c"/><path d="M692 636C710 590 740 545 790 512C810 500 828 490 843 483C868 525 888 578 897 632C830 640 770 676 738 712C732 696 728 688 722 680C712 660 702 648 692 636Z" fill="#fad490"/><path d="M897 632C900 700 880 760 845 788C820 805 790 804 770 790C752 775 746 745 738 712C770 676 830 640 897 632Z" fill="#555459"/></g></svg>
+  <text x="188" y="148" font-family="Georgia, 'Times New Roman', serif" font-size="84" font-weight="700" letter-spacing="-2" fill="#fff9e1">Vayora</text>
+  <text x="74" y="240" font-family="Georgia, 'Times New Roman', serif" font-size="40" font-style="italic" fill="#fff9e1">Smarter management.</text>
+  <text x="74" y="290" font-family="Georgia, 'Times New Roman', serif" font-size="40" font-style="italic" fill="#f9541c">Better hospitality.</text>
+  <text x="74" y="352" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#dfebfa">Software for small villas, guesthouses and restaurants in Indonesia</text>
+</svg>
